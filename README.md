@@ -2,7 +2,8 @@
 
 > The official collection of powerful scripts and libraries for the Voxel Language ecosystem.
 
-[![Voxel Lang](https://img.shields.io/badge/Voxel-Lang-brightgreen?style=for-the-badge)](https://github.com/Intelektika-team/vxl)
+[![Vxl](https://img.shields.io/badge/Vxl-tool-brightgreen?style=for-the-badge)](https://github.com/Intelektika-team/vxl)
+[![Voxel Lang](https://img.shields.io/badge/Voxel-Lang-orange?style=for-the-badge)](https://github.com/Intelektika-team/Voxel)
 [![inf](https://img.shields.io/badge/Version-0.7.2-blue?style=for-the-badge)](#)
 [![inf](https://img.shields.io/badge/Join-us-red?style=for-the-badge)](https://intelektika-team.github.io/)
 
