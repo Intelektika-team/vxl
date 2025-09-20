@@ -51,7 +51,7 @@ The `vxl` tool is not limited to this repo. You can install scripts from any pub
 # Syntax: vxl -if <github_user/repo_name> <script_name>
 vxl -if someuser/cool-vxl-scripts awesome_module
 ```
-This command will download `awesome_module.py` from `https://github.com/someuser/cool-vxl-scripts`.
+This command will download `awesome_module.py` from `https://github.com/someuser/scripts/cool-vxl-scripts`.
 
 ## 🤝 How to Contribute Your Package
 
