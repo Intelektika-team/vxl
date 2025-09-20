@@ -3,8 +3,8 @@
 > The official collection of powerful scripts and libraries for the Voxel Language ecosystem.
 
 [![Voxel Lang](https://img.shields.io/badge/Voxel-Lang-brightgreen?style=for-the-badge)](https://github.com/Intelektika-team/vxl)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-success?style=for-the-badge)](CONTRIBUTING.md)
+[![inf](https://img.shields.io/badge/Version-0.7.2-blue?style=for-the-badge)](#)
+[![inf](https://img.shields.io/badge/Join-us-red?style=for-the-badge)](https://intelektika-team.github.io/)
 
 This repository is the central hub for extending your Voxel projects. Here you'll find a growing collection of scripts and libraries designed to seamlessly integrate with the `vxl` package manager, adding new capabilities and simplifying your development process.
 
