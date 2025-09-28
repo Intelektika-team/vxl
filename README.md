@@ -10,6 +10,8 @@
 
 This repository is the central hub for extending your Voxel projects. Here you'll find a growing collection of scripts and libraries designed to seamlessly integrate with the `vxl` package manager, adding new capabilities and simplifying your development process.
 
+<img width="1067" height="694" alt="Снимок экрана 2025-09-21 в 20 57 45" src="https://github.com/user-attachments/assets/550eec30-43da-4c5b-9aba-234fa7ccb7e4" />
+
 ## ✨ What's Inside?
 
 This repo contains **exclusively** `.py` scripts designed to be used as dependencies in Voxel projects. These can include:
