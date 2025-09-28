@@ -4,8 +4,9 @@
 
 [![Vxl](https://img.shields.io/badge/Vxl-tool-brightgreen?style=for-the-badge)](https://github.com/Intelektika-team/vxl)
 [![Voxel Lang](https://img.shields.io/badge/Voxel-Lang-orange?style=for-the-badge)](https://github.com/Intelektika-team/Voxel)
-[![inf](https://img.shields.io/badge/Version-0.7.2-blue?style=for-the-badge)](#)
-[![inf](https://img.shields.io/badge/Join-us-red?style=for-the-badge)](https://intelektika-team.github.io/)
+[![Version](https://img.shields.io/badge/Version-0.7.2-blue?style=for-the-badge)](#)
+[![Join](https://img.shields.io/badge/Join-us-red?style=for-the-badge)](https://intelektika-team.github.io/)
+[![Team](https://img.shields.io/badge/Our-team-yellow?style=for-the-badge)](https://github.com/Intelektika-team)
 
 This repository is the central hub for extending your Voxel projects. Here you'll find a growing collection of scripts and libraries designed to seamlessly integrate with the `vxl` package manager, adding new capabilities and simplifying your development process.
 
